@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594657829814",
+    "project_id": "fir-auth-bug-reproduction",
+    "storage_bucket": "fir-auth-bug-reproduction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594657829814:android:baa597dc471e35b40b9717",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_bug_reproduction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594657829814-er0jfnj2tkkqet1o5595vhfo0j5pkk84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXRtG3gySxCx2ggNTf15-YvjK_SlhJ5xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594657829814-er0jfnj2tkkqet1o5595vhfo0j5pkk84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
